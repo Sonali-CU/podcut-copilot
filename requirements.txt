@@ -1,0 +1,12 @@
+streamlit
+yt-dlp
+faster-whisper
+transformers
+torch
+keybert
+librosa
+opencv-python-headless
+plotly
+pandas
+scipy
+sentencepiece
